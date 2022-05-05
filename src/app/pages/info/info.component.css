@@ -1,0 +1,19 @@
+.left {
+    float:left;
+}
+.right{
+    float:right;
+}
+.container {
+    position: relative;
+    display: table;
+}
+.empty{
+    width: 1000px;
+}
+.header{
+    width: 500px;
+    height: 200px;
+    position: relative;
+    display: grid;
+}

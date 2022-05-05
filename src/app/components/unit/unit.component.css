@@ -1,0 +1,14 @@
+.box {
+    display: table-cell;
+}
+.icon {
+    max-width: 20px;
+    max-height: 20px;
+    padding-top:5px;
+    padding-right: 5px;
+    float: right;
+}
+.icon2{
+    max-width: 7px;
+    max-height: 7px;
+}
